@@ -26,58 +26,15 @@ class CfgVehicles
 	{
 		weapons[] =
 		{
-			"USAF_MASTER_ARM_SAFE_A10C",
-			"Gatling_30mm_Plane_CAS_01_F",
-			"USAF_Countermeasures_A10C",
-			"USAF_GBU12_Launcher",
-			"USAF_AGM65_Launcher",
-			"USAF_AGM65E_Launcher",
-			"USAF_MK82_Launcher",
-			"USAF_AIM9X_Launcher",
-			"USAF_FFARLauncher_unguided"
+			"USAF_MASTER_ARM_SAFE",
+			"USAF_GAU8_GUN",
+			"USAF_Countermeasures_A10C"
 		};
 		magazines[] =
 		{
-			"MG8_1174Rnd_Gau8_30mm",
-			"240Rnd_CMFlare_Chaff_Magazine",
-			"USAF_1Rnd_ANALQ131",
-			"USAF_1Rnd_FFARPOD7",
-			"USAF_1Rnd_LAU88",
-			"USAF_1Rnd_MK82RACK",
-			"USAF_1Rnd_GBU12",
-			"USAF_1Rnd_GBU12",
-			"USAF_1Rnd_GBU12",
-			"USAF_1Rnd_MK82RACK",
-			"USAF_1Rnd_LAU88",
-			"USAF_1Rnd_FFARPOD7",
-			"USAF_1Rnd_DUALRAIL",
-			"USAF_1Rnd_AGM65",
-			"USAF_1Rnd_AGM65",
-			"USAF_1Rnd_AGM65",
-			"USAF_1Rnd_MK82",
-			"USAF_1Rnd_MK82",
-			"USAF_1Rnd_MK82",
-			"USAF_empty",
-			"USAF_empty",
-			"USAF_empty",
-			"USAF_empty",
-			"USAF_empty",
-			"USAF_empty",
-			"USAF_1Rnd_MK82",
-			"USAF_1Rnd_MK82",
-			"USAF_1Rnd_MK82",
-			"USAF_1Rnd_AGM65E",
-			"USAF_1Rnd_AGM65E",
-			"USAF_1Rnd_AGM65E",
-			"USAF_empty",
-			"USAF_empty",
-			"USAF_empty",
-			"USAF_empty",
-			"USAF_empty",
-			"USAF_empty",
-			"USAF_1Rnd_AIM9X",
-			"USAF_1Rnd_AIM9X",
-			"USAF_19Rnd_HYDRA70_unguided"
+			"USAF_GAU8_1150Rnd",
+			"240Rnd_CMFlare_Chaff_Magazine"
+			
 		};
 	};
 };
